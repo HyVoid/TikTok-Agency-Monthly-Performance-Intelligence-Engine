@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Agency Monthly Performance Intelligence Engine",
+  "description": "A standalone interactive performance and decision-intelligence engine for TikTok agencies, with full organic and paid campaigns dashboards, calculations, benchmarks, and automated strategic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
