@@ -16,7 +16,7 @@
 
 ---
 
-# ## Screenshots
+# Screenshots
 
 ### Browser Version
 
