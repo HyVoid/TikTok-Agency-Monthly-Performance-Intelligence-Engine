@@ -8,7 +8,7 @@
 
 > ### **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → HTML Interactive Version *(coming with GitHub Pages deployment)*
+> 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/TikTok-Agency-Monthly-Performance-Intelligence-Engine/) 
 >
 > 📥 **Download Excel** → Excel Workbook Version *(GitHub Release / Gumroad Distribution)*
 >
