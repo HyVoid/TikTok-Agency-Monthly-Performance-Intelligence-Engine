@@ -16,22 +16,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive client performance intelligence dashboard showing Paid vs Organic attribution, benchmark positioning, trend analysis, and strategic recommendations.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Operational workbook showing raw data ingestion, KPI calculation engine, insight generation, and executive reporting workflow.*
-
----
-
 ## What It Helps You Track
 
 * Which TikTok content formats consistently generate audience growth versus temporary engagement spikes.
