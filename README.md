@@ -6,7 +6,9 @@
 
 **Standardize TikTok agency reporting, benchmarking, strategic analysis, and client recommendations in a reusable browser-based and Excel-based decision framework — with no installation, no signup, and no maintenance overhead.**
 
-> ### **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/TikTok-Agency-Monthly-Performance-Intelligence-Engine/) 
 >
