@@ -12,7 +12,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/TikTok-Agency-Monthly-Performance-Intelligence-Engine/) 
 >
-> 📥 **Download Excel** → Excel Workbook Version *(GitHub Release / Gumroad Distribution)*
+> 📥 **Download Excel** → [*Excel Workbook Version*](https://alexhasgreatestuff.gumroad.com/l/vrpefh)
 >
 > Available in both browser and Excel formats.
 
