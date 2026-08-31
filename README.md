@@ -8,7 +8,7 @@
 
 No signup. No installation. Free to use in your browser.
 
-Try the lightweight browser version to audit a single campaign, or download the fully unlocked Excel workbook (with a 7-day money-back guarantee) to automate your ongoing agency reporting workflows.
+Try the lightweight browser version to audit a single campaign, or download the fully unlocked Excel workbook (with a 30-day, no-questions-asked money-back guarantee) to automate your ongoing agency reporting workflows.
 
 > 🌐 **Live Web App** → [Test the Free Interactive TikTok Agency Analytics Dashboard](https://hyvoid.github.io/tiktok-marketing-roi-calculator/) 
 > 
