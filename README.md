@@ -173,6 +173,8 @@ TRUE, "TEST NEW FORMATS"
 )
 
 ```
+</details>
+
 
 ---
 
