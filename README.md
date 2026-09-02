@@ -12,7 +12,7 @@ Try the lightweight browser version to audit a single campaign, or download the 
 
 > 🌐 **Live Web App** → [Test the Free Interactive TikTok Agency Analytics Dashboard](https://hyvoid.github.io/tiktok-marketing-roi-calculator/) 
 > 
-> 📥 **Download Asset** → [Get the Reusable TikTok Monthly Report Excel Template](https://alexhasgreatestuff.gumroad.com/l/vrpefh?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=tiktok-agency-performance)
+> 📥 **Download Asset** → [Get the Reusable TikTok Monthly Report Excel Template](https://www.theseusworkshop.com/l/vrpefh?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=tiktok-agency-performance)
 
 ---
 
@@ -58,7 +58,7 @@ Navigate to the output tabs to instantly retrieve your analyzed data:
 ### Step 4: Scale Your Agency Operations (CTA)
 The web version is perfect for a single-use audit. However, if you manage multiple brand accounts and need to save historical configurations, preserve client data, and refresh dashboards monthly without rebuilding:
 
-👉 **[Download the Excel version of the TikTok Monthly Reporting Template](https://alexhasgreatestuff.gumroad.com/l/vrpefh?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=tiktok-agency-performance)** to establish a permanent, repeatable reporting workflow for your agency.
+👉 **[Download the Excel version of the TikTok Monthly Reporting Template](https://www.theseusworkshop.com/l/vrpefh?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=tiktok-agency-performance)** to establish a permanent, repeatable reporting workflow for your agency.
 
 ---
 
